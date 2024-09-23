@@ -1,27 +1,9 @@
 # Page
 
-Markdown code for the page:
+{% synced-block url="https://app.gitbook.com/o/q9eWN3871qBoiHfhzmNF/blocks/syb_QW3Mp" %}
+[123456](https://app.gitbook.com/o/q9eWN3871qBoiHfhzmNF/blocks/syb\_QW3Mp)
+{% endsynced-block %}
 
-\{% include "./readme-top.md" %\}
-
-\### \[Accounts]\(./accounts.md)
-
-\### \[Datasources]\(./datasources.md)
-
-\### \[Events]\(./events.md)
-
-\### \[Key/Value Store]\(./kvstore.md)
-
-\### \[Organizations]\(./organizations.md)
-
-\### \[User Profile]\(./profile.md)
-
-\### \[Realtime]\(./realtime.md)
-
-\### \[Sessions]\(./sessions.md)
-
-\### \[World Builder]\(./world-builder.md)
-
-\### \[Worlds]\(./worlds.md)
-
-\{% include "./readme-bottom.md" %\}
+{% synced-block url="https://app.gitbook.com/o/q9eWN3871qBoiHfhzmNF/blocks/syb_GidKQ" %}
+[2](https://app.gitbook.com/o/q9eWN3871qBoiHfhzmNF/blocks/syb\_GidKQ)
+{% endsynced-block %}
