@@ -1,21 +1,21 @@
 # Page
 
-{% swagger src=".gitbook/assets/openapi(1).yaml" path="/pet" method="post" %}
-[openapi(1).yaml](.gitbook/assets/openapi\(1\).yaml)
+{% swagger src=".gitbook/assets/pets.yaml" path="/pet" method="post" %}
+[pets.yaml](.gitbook/assets/openapi\(1\).yaml)
 {% endswagger %}
 
-{% swagger src=".gitbook/assets/openapi(1).yaml" path="/pet/findByStatus" method="get" %}
-[openapi(1).yaml](.gitbook/assets/openapi\(1\).yaml)
+{% swagger src=".gitbook/assets/pets.yaml" path="/pet/findByStatus" method="get" %}
+[pets.yaml](.gitbook/assets/pets.yaml)
 {% endswagger %}
 
-{% swagger src=".gitbook/assets/openapi(1).yaml" path="/pet/findByTags" method="get" %}
-[openapi(1).yaml](.gitbook/assets/openapi\(1\).yaml)
+{% swagger src=".gitbook/assets/pets.yaml" path="/pet/findByTags" method="get" %}
+[pets.yaml](.gitbook/assets/pets.yaml)
 {% endswagger %}
 
-{% swagger src=".gitbook/assets/openapi(1).yaml" path="/pet/{petId}" method="get" %}
-[openapi(1).yaml](.gitbook/assets/openapi\(1\).yaml)
+{% swagger src=".gitbook/assets/pets.yaml" path="/pet/{petId}" method="get" %}
+[pets.yaml](.gitbook/assets/pets.yaml)
 {% endswagger %}
 
-{% swagger src=".gitbook/assets/openapi(1).yaml" path="/pet/{petId}" method="post" %}
-[openapi(1).yaml](.gitbook/assets/openapi\(1\).yaml)
+{% swagger src=".gitbook/assets/pets.yaml" path="/pet/{petId}" method="post" %}
+[pets.yaml](.gitbook/assets/pets.yaml)
 {% endswagger %}
