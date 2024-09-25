@@ -6,5 +6,5 @@
 * [Page 2](page-2.md)
 * [Page 3](page-3.md)
 * [Page 7](page-8.md)
-* [Parent](parent/README.md)
-  * [Child of pages](parent/child-of-pages.md)
+* [Parent](slug/README.md)
+  * [Child of pages](slug/child-of-pages.md)
