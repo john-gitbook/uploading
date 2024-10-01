@@ -7,3 +7,4 @@
 * [Page 3](page-3.md)
 * [Parent](slug/README.md)
   * [Child of pages](slug/child-of-pages.md)
+* [Page 4](page-4.md)
