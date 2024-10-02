@@ -1,8 +1,11 @@
+---
+icon: fill-drip
+---
+
 # Page 1
 
-
 {% swagger src=".gitbook/assets/pets.yaml" path="/pet" method="post" %}
-[pets.yaml](.gitbook/assets/openapi\(1\).yaml)
+[pets.yaml](.gitbook/assets/pets.yaml)
 {% endswagger %}
 
 {% swagger src=".gitbook/assets/pets.yaml" path="/pet/findByStatus" method="get" %}
