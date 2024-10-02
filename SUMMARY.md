@@ -9,3 +9,7 @@
   * [Child of pages](slug/child-of-pages.md)
 * [Page 4](page-4.md)
 * [Page 5](page-5.md)
+
+## Group 1
+
+* [Page 6](group-1/page-6.md)
