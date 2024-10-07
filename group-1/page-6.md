@@ -41,5 +41,5 @@ sequenceDiagram
   B-->>A: result
 
   deactivate A
-```
   Note over A: on_init_done
+```
