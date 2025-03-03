@@ -13,3 +13,7 @@
 ## Group 1
 
 * [Page 6](group-1/page-6.md)
+
+***
+
+* [Page 7](page-7.md)
